@@ -11,5 +11,8 @@
 	HOUSEHOLD: <input type="text" name="q2"><br>
 	<input type="submit" value="send">
 </form>
+<ul>
+<li><a href="read2.php">read.php</a></li>
+</ul>
 </body>
 </html>

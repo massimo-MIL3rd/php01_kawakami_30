@@ -33,5 +33,8 @@
 <body>
      <h1>TABLE</h1>
     <p><?php echo $result; ?></p>
+    <ul>
+    <li><a href="post.php">post.php</a></li>
+    </ul>
 </body>      
 </html>

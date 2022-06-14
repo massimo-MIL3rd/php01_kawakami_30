@@ -2,3 +2,5 @@
 2022-06-09 15:20:52,leo kawakami,test.com,8,4
 2022-06-10 17:15:35,Kai Kawakami,kai@kai.com,5,4
 2022-06-12 23:12:24,henry,henry@henry.com,29,2
+2022-06-14 02:22:31,bob,bob@bob.com,59,3
+2022-06-14 02:23:23,george,george@ymail.com,22,0

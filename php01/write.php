@@ -27,7 +27,8 @@ fclose($file);
 <h2>./data/data.txt を確認しましょう！</h2>
 
 <ul>
-<li><a href="input.php">戻る</a></li>
+<li><a href="post.php">戻る</a></li>
+<li><a href="read2.php">read.php</a></li>
 </ul>
 </body>
 </html>
